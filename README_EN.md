@@ -323,30 +323,6 @@ sqlite3 data/github-trending.db "SELECT repo_name, summary, category FROM repos_
 
 ---
 
-## Support
-
-If this project helps you, consider buying me a coffee!
-
-### WeChat
-
-<img src="https://raw.githubusercontent.com/geekjourneyx/awesome-developer-go-sail/main/docs/assets/wechat-reward-code.jpg" alt="WeChat QR Code" width="200" />
-
----
-
-## Author
-
-- **Author**: `geekjourneyx`
-- **X (Twitter)**: https://x.com/seekjourney
-- **WeChat Official Account**: 极客杰尼 (Geek Journeyx)
-
-Follow for more AI programming, tools, and overseas development insights:
-
-<p>
-<img src="https://raw.githubusercontent.com/geekjourneyx/awesome-developer-go-sail/main/docs/assets/qrcode.jpg" alt="WeChat Official Account" width="180" />
-</p>
-
----
-
 ## License
 
 [MIT](LICENSE)
