@@ -1,0 +1,19 @@
+# GitHub Topics Trending 依赖清单
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# Claude API SDK
+anthropic>=0.40.0
+
+# HTTP 请求
+requests>=2.31.0
+
+# HTML 解析（Trending 页面爬取）
+beautifulsoup4>=4.12.0
+
+# 日期处理
+python-dateutil>=2.8.2
+
+# 邮件发送
+resend>=1.0.0
